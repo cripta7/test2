@@ -10,7 +10,7 @@ var animacio;
 function preload() {
   //CREAR UNA ANIMACIO A PARTIR D'UNA SERIE D'IMATGES
   //EL NOM DELS ARXIUS ES MOOOOOLT IMPORTANT
-  animacio = loadAnimation("asterisk_circle0000.png", "asterisk_circle0014.png");
+  animacio = loadAnimation("libraries/asterisk_circle0000.png", "libraries/asterisk_circle0014.png");
   //animacio = loadAnimation("imatge0000.png", "assets/imatge0015.png");
 }
 
